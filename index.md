@@ -1,7 +1,7 @@
 ---
-name:Amrita Chatterjee
+name: Amrita Chatterjee
 ---
 
 
 Introduction
-This file is created by {{page.name}}.
+This file is created by { {page.name} }.
