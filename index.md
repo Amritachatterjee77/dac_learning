@@ -8,6 +8,12 @@ layout: template
 
 This file is created by {{page.Author}}.
 
+# Version History
+
+{% for item in site.data version%}
+- {{item.name}} , {{item.version}}
+{%endfor%}
+
 # Overview
 
 This is a Readme file for the DAC_learning Repo. This file includes some basic **markdown syntax** usage.
