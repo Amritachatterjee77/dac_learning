@@ -12,7 +12,7 @@ This file is created by {{page.Author}}.
 
 {% for item in site.data version %}
 - {{item.name}},{{item.version}}
-{%endfor%}
+{% endfor %}
 
 # Overview
 
