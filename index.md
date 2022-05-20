@@ -10,7 +10,7 @@ This file is created by {{page.Author}}.
 
 # Version History
 
-{% for item in site.data version%}
+{% for item in site.data version %}
 - {{item.name}},{{item.version}}
 {%endfor%}
 
