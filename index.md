@@ -6,7 +6,7 @@ layout: template
 
 # Introduction
 
-This file is created by {{page.Author}}.
+This file is created by {{page.Author}} on {{site.date}}.
 
 # Version History
 
